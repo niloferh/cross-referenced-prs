@@ -1,0 +1,14 @@
+PyNaCl==1.4.0
+bcrypt==3.2.0
+cffi==1.14.6
+cryptography==3.4.7
+ijson==3.1.4
+mysql-connector-python==8.0.25
+paramiko==2.7.2
+pip==21.1.2
+protobuf==3.17.3
+pycparser==2.20
+setuptools==57.0.0
+sshtunnel==0.4.0
+strudel.scraper==1.4.0
+strudel.utils==0.6.2
